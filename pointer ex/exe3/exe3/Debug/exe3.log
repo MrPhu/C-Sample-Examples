@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\hoctap\c++\pointer exercises\exe3\exe3\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  exe3.vcxproj -> D:\HocTap\C++\pointer exercises\exe3\Debug\exe3.exe
+  exe3.vcxproj -> D:\HocTap\C++\pointer exercises\exe3\Debug\exe3.pdb (Partial PDB)
